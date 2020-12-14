@@ -1,14 +1,14 @@
-# CTCL Election Website Toolkit #
-**Contributors:** [paulschreiber](https://profiles.wordpress.org/paulschreiber), [legarlin](https://profiles.wordpress.org/legarlin)
-**Requires at least:** 5.5
-**Tested up to:** 5.5
-**Stable tag:** 1.0
-**License:** GPLv2 or later
-**License URI:** https://www.gnu.org/licenses/gpl-2.0.html
+=== CTCL Election Website Toolkit ===
+Contributors: paulschreiber, legarlin
+Requires at least: 5.5
+Tested up to: 5.5
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Local election official website template and toolkit.
 
-## Description ##
+== Description ==
 
 If you’re a local election official in the United States, you can use this
 template to get a head start on building your election website. The template
@@ -17,14 +17,14 @@ and icons, (2) pre-loaded web pages on voting, voter registration, election
 resources, and more. The template follows guidelines from the Center for
 Civic Design and is fast, mobile-friendly and accessible.
 
-## Changelog ##
+== Changelog ==
 
-### 1.0 ###
+= 1.0 =
 * Released: August 15, 2020
 
 Initial release
 
-## Copyright ##
+== Copyright ==
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
